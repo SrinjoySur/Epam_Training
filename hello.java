@@ -5,7 +5,7 @@ class hello{
     System.out.print("Enter a no.:");
     int n = sc.nextInt();
     for(int i=0;i<n;i++){
-      System.out.println("Hello World!!"+i);
+      System.out.println("Hello World!!"+i+"time");
     }
   }
 }
